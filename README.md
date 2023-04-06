@@ -12,7 +12,7 @@ N/A
 
 This website is a work day scheduler, which will show 8 working hours [9 am - 5 pm]. We can add our task in each section and can save it. we can come back later and add more task and task we created earlier will be present on the same page as it is stored in local storage. It also synchorize with current time and shows different colours for upcoming taks, tasks which are already comepleted and current tasks. Grey colour indicate tasks which are in past hours, red will show tasks in current hour and green will show tast in future hours. Screenshot of the website is attached below.
 
-![Photo of website](/Scheduler/asset/image/saloni0412.github.io_Scheduler_.png)
+![Photo of website](./asset/image/saloni0412.github.io_Scheduler_.png)
 
 ## Credits
 
